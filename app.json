@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Betting Tracker",
+    "slug": "betting-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.tuonomo.bettingtracker",
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0A0C"
+      }
+    }
+  }
+}
