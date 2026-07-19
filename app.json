@@ -7,6 +7,11 @@
     "userInterfaceStyle": "dark",
     "android": {
       "package": "com.tuonomo.bettingtracker"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1b81cfbe-0db2-4062-bb15-467e744f571c"
+      }
     }
   }
 }
